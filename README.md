@@ -28,7 +28,7 @@ Essa lógica evita desligamentos acidentais causados por falhas momentâneas no 
 
 ## 🖼️ Imagem do projeto
 
-![Acionamento por Presença Bluetooth](./imagem.jpg)
+![Acionamento por Presença Bluetooth](./Imagem.jpg)
 
 ---
 
